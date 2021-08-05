@@ -22,7 +22,7 @@ title: Myles Cork - CRDDS site
 email: Myles.Cork@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Website made during the CDDRS Research Data Bootcamp.
-baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
+baseurl: "/Myles-Cork_CDDRS-Research-Data-Bootcamp-Page" # the subpath of your site, e.g. /blog
 url: "https://Myles-Cork.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Myles-Cork
 
