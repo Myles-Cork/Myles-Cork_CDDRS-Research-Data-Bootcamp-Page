@@ -1,0 +1,27 @@
+---
+title: "MylesCork_RLevelZeroAssessment"
+author: "Myles Cork"
+date: "8/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r install dplyr}
+#install.packages("dplyr")
+```
+
+```{r call libraries}
+library(tidyverse)
+library(dplyr)
+```
+
+```{r import dataset and assign df}
+df <- read.csv('Bag_Tax.csv')
+```
+
+```{r six rows}
+head(df)
+```
